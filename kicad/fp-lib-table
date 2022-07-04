@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "keebio-components-master")(type "KiCad")(uri "D:/KiCad Projects/cassowary/components/keebio-components-master")(options "")(descr ""))
+  (lib (name "Keebio-Parts")(type "KiCad")(uri "D:/KiCad Projects/cassowary/components/Keebio-Parts.pretty-master")(options "")(descr ""))
+  (lib (name "Switch_Keyboard_Cherry_MX")(type "KiCad")(uri "D:/KiCad Projects/cassowary/components/Switch_Keyboard_Cherry_MX.pretty")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "D:/KiCad Projects/cassowary/components/KiCad-RP-Pico-main/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
+)
